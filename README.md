@@ -1,3 +1,8 @@
+# GITHUB
+This was a group project done while in university. I contributed the general architecture and lead the design and implementation. I would have seen all aspects of the fuzzer at some point during development.
+
+The original readme can be found below (names removed for privacy).
+
 # Alt-F5 Fuzzer
 
 ## Description
